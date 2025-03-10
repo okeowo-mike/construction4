@@ -69,7 +69,7 @@ h3 {
   font-size: 1.5rem;
 }
 .part-1 p {
-  margin-top: -1.9rem;
+  /* margin-top: -0.1rem; */
   font-size: smaller;
 }
 

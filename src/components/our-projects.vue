@@ -3,7 +3,7 @@
     <div class="our-project-texts">
       <p class="what-we-do">What We Do</p>
       <h2>Our Projects</h2>
-      <p>
+      <p class="what-we-do-p2">
         I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to
         tell a story and let your users know a little more about you.
       </p>
@@ -30,8 +30,8 @@ import img1 from '../assets/wwd-3.jpg';
 import img2 from '../assets/wwd-2.jpg';
 import img3 from '../assets/wwd-1.jpg';
 import img4 from '../assets/wwd-4.jpg';
-import img5 from '../assets/project-img-5.jpg';
-import img6 from '../assets/project-img-6.jpg';
+import img5 from '../assets/project-img-5.jpeg';
+import img6 from '../assets/project-img-6.jpeg';
 import img7 from '../assets/project-img-7.jpg';
 
 export default {
@@ -77,12 +77,12 @@ export default {
 .our-project-texts {
   margin: 0 3rem;
   margin-top: 10rem;
-  max-width: 500px;
+  max-width: 700px;
   text-align: left;
 }
 
 .what-we-do {
-  margin-bottom: -1rem;
+  margin-bottom: 1rem;
   font-weight: 300;
   font-size: 30px;
   text-align: left;
@@ -94,6 +94,11 @@ export default {
   line-height: 50px;
   color: #d8d300;
   text-align: left;
+}
+
+.what-we-do-p2 {
+  padding-top: 0.5rem;
+  max-width: 650px;
 }
 
 /* /////////////////////////////////// */

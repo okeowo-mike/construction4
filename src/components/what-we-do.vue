@@ -4,10 +4,10 @@
       <div class="service-text-1">
         <p class="service-p1">Building Is What We Do</p>
         <h2>MCR Construction Is Leading Quality Projects</h2>
-        <!-- <p>
-            I'm a paragraph. Click here to add your own text and edit me. Let your
-            users get to know you.
-          </p> -->
+        <p>
+          I'm a paragraph. Click here to add your own text and edit me. Let your
+          users get to know you.
+        </p>
       </div>
       <div class="service-text-2">
         <div class="services-btn">
@@ -21,17 +21,19 @@
         <div class="litlle-line"></div>
         <h3>Commercial</h3>
         <p>
-          I’m a paragraph. Click here to add your own text and edit me. It’s easy. Just click ‘Edit
-          Text’ or double click me to add your own content and make changes to the font. Feel free
-          to drag and drop me anywhere you like on your page.
+          I’m a paragraph. Click here to add your own text and edit me. It’s
+          easy. Just click ‘Edit Text’ or double click me to add your own
+          content and make changes to the font. Feel free to drag and drop me
+          anywhere you like on your page.
 
           <br />
           <br />
 
-          This is a great space to write a long text about your company and your services you can
-          use this space to go into a little more detail about your company. Talk about your team
-          and what services you provide. Tell your visitors the story of how you came up with the
-          idea for your business and what makes you different from your competitors
+          This is a great space to write a long text about your company and your
+          services you can use this space to go into a little more detail about
+          your company. Talk about your team and what services you provide. Tell
+          your visitors the story of how you came up with the idea for your
+          business and what makes you different from your competitors
         </p>
       </div>
       <div class="commercial-pic"></div>
@@ -43,17 +45,19 @@
         <div class="litlle-line"></div>
         <h3>Infrastructure</h3>
         <p>
-          I’m a paragraph. Click here to add your own text and edit me. It’s easy. Just click ‘Edit
-          Text’ or double click me to add your own content and make changes to the font. Feel free
-          to drag and drop me anywhere you like on your page.
+          I’m a paragraph. Click here to add your own text and edit me. It’s
+          easy. Just click ‘Edit Text’ or double click me to add your own
+          content and make changes to the font. Feel free to drag and drop me
+          anywhere you like on your page.
 
           <br />
           <br />
 
-          This is a great space to write a long text about your company and your services you can
-          use this space to go into a little more detail about your company. Talk about your team
-          and what services you provide. Tell your visitors the story of how you came up with the
-          idea for your business and what makes you different from your competitors
+          This is a great space to write a long text about your company and your
+          services you can use this space to go into a little more detail about
+          your company. Talk about your team and what services you provide. Tell
+          your visitors the story of how you came up with the idea for your
+          business and what makes you different from your competitors
         </p>
       </div>
     </div>
@@ -63,10 +67,12 @@
         <h3>Residential</h3>
         <div class="residential-pic-2"></div>
         <p>
-          I’m a paragraph. Click here to add your own text and edit me. It’s easy. Just click ‘Edit
-          Text’ or double click me to add your own content and make changes to the font. Talk about
-          your team and what services you provide. Tell your visitors the story of how you came up
-          with the idea for your business and what makes you different from your competitors
+          I’m a paragraph. Click here to add your own text and edit me. It’s
+          easy. Just click ‘Edit Text’ or double click me to add your own
+          content and make changes to the font. Talk about your team and what
+          services you provide. Tell your visitors the story of how you came up
+          with the idea for your business and what makes you different from your
+          competitors
         </p>
       </div>
 
@@ -77,6 +83,8 @@
 
 <style scoped>
 /* #what-we-do {
+  position: relative;
+  z-index: 2;
   } */
 
 .service-texts {
@@ -94,10 +102,11 @@
   line-height: 50px;
   color: #d8d300;
   text-align: left;
+  margin-top: 3rem;
 }
 
 .service-p1 {
-  margin-bottom: -1rem;
+  margin-bottom: 12rem;
   font-weight: 300;
   font-size: 30px;
   text-align: left;
@@ -136,7 +145,7 @@
 
 .commercial-text {
   width: 50%;
-  background-color: #d8d300;
+  background-color: #cd3d79;
   padding: 2rem;
   height: 300px;
 }
@@ -184,8 +193,8 @@
 }
 
 .residential-text {
- padding-left: 2rem;
- padding-right: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
   display: flex;
   flex-direction: column;
   text-align: left;

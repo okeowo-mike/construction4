@@ -4,7 +4,7 @@
       <div class="service-text-1">
         <p class="service-p1">Our Services</p>
         <h2>Services We Offer to Meet Your Needs</h2>
-        <p>
+        <p class="our-service-p2">
           I'm a paragraph. Click here to add your own text and edit me. Let your users get to know
           you.
         </p>
@@ -177,6 +177,7 @@
 #services {
   margin-top: 3rem;
   padding: 0 4rem;
+  padding-top: 3rem;
 }
 
 .service-texts {
@@ -196,10 +197,14 @@
 }
 
 .service-p1 {
-  margin-bottom: -1rem;
+  margin-bottom: 1rem;
   font-weight: 300;
   font-size: 30px;
   text-align: left;
+}
+
+.our-service-p2 {
+  padding-top: 0.5rem;
 }
 
 .service-text-2 {
